@@ -243,7 +243,7 @@ def startGame():
 
 
 screen = pygame.display.set_mode((width, height))
-pygame.display.set_caption("Tetris by DataFlair")
+pygame.display.set_caption("Tetris by Busayor")
 run = True
 while run:
     screen.fill((16, 57, 34 ))
